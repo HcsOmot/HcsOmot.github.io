@@ -10,7 +10,7 @@ Can you tell what the commits in the following screenshot do?
 
 They introduce changes to code, but in order to understand them and be able to perform a code review, you’d need to dig deep into the changes themselves, build up the context around them, hunt through files, and try to link everything together. In your head.
 
-You’ll waste precious mental resources trying to re-establish the context and understand the scope of the changes. If the changes in question are non-trivial (and chances are they aren’t), you’ll also try to reason about the motivation behind the changes. And that’s expensive. It’ll take you time and energy to go through the commit, jumping from one end to another, trying to piece together what affects what. You’ll most probably end up opening a few older commits in hopes of grasping the effects and reasons for the changes you’re reviewing.
+You’ll waste precious mental resources trying to re-establish the context and understand the scope of the changes. If the changes in question are non-trivial (and chances are they are), you’ll also try to reason about the motivation behind the changes. And that’s expensive. It’ll take you time and energy to go through the commit, jumping from one end to another, trying to piece together what affects what. You’ll most probably end up opening a few older commits in hopes of grasping the effects and reasons for the changes you’re reviewing.
 
 If you can’t understand the point and purpose of the changes, you can’t easily judge on their merit either.
 
@@ -41,7 +41,7 @@ Why force your code reviewers to try to understand in five or ten minutes the th
 
 Isn’t it wasteful and inconsiderate not to use your knowledge to describe the work you did?
 
-Help you fellow developers, and even yourselves down the line, and describe the whats and whys of the hows in your commits.
+Help your fellow developers, and even yourself down the line, and describe the whats and whys of the hows in your commits.
 
 There's a lot more to writing good and useful commit messages, but as a start, try following these 7 simple rules:
 
