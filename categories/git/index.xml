@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Great Sandra Bullock Project on My New Hugo Site</title>
+    <link>https://hcsomot.github.io/categories/git/</link>
+    <description>Recent content in The Great Sandra Bullock Project on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 May 2018 22:04:42 +0200</lastBuildDate><atom:link href="https://hcsomot.github.io/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Code Reviews and Git Commit Messages</title>
+      <link>https://hcsomot.github.io/posts/2018-05-23-on-code-reviews-and-git-commit-messages/</link>
+      <pubDate>Wed, 23 May 2018 22:04:42 +0200</pubDate>
+      
+      <guid>https://hcsomot.github.io/posts/2018-05-23-on-code-reviews-and-git-commit-messages/</guid>
+      <description>Can you tell what the commits in the following screenshot do?
+They introduce changes to code, but in order to understand them and be able to perform a code review, you’d need to dig deep into the changes themselves, build up the context around them, hunt through files, and try to link everything together. In your head.
+You’ll waste precious mental resources trying to re-establish the context and understand the scope of the changes.</description>
+    </item>
+    
+  </channel>
+</rss>
