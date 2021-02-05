@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on HcsOmot </title>
     <link>https://hcsomot.github.io/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <description>Recent content in Categories on HcsOmot </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 May 2018 22:04:42 +0200</lastBuildDate><atom:link href="https://hcsomot.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git</title>
+      <link>https://hcsomot.github.io/categories/git/</link>
+      <pubDate>Wed, 23 May 2018 22:04:42 +0200</pubDate>
+      
+      <guid>https://hcsomot.github.io/categories/git/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>software-design</title>
       <link>https://hcsomot.github.io/categories/software-design/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://hcsomot.github.io/categories/software-design/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>The Great Sandra Bullock Project</title>
-      <link>https://hcsomot.github.io/categories/git/</link>
-      <pubDate>Wed, 23 May 2018 22:04:42 +0200</pubDate>
-      
-      <guid>https://hcsomot.github.io/categories/git/</guid>
-      <description>prije liste postova</description>
     </item>
     
   </channel>
